@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2023-11-09T20:30:54.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="EMJ_RxrmUWLQB_CdY_MJ" version="22.0.3" type="device">
+  <diagram name="Trang-1" id="s8rzBeUtJQtMKifFfo53">
+    <mxGraphModel dx="1028" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-1" target="lMN1IS2ueBsfVYDx3VOf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-1" value="start&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-2" target="lMN1IS2ueBsfVYDx3VOf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-2" value="lương cơ bản&amp;nbsp;&lt;br&gt;ngày làm&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-4" target="lMN1IS2ueBsfVYDx3VOf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-4" value="tiền công thực = lương thực tế / số ngày công&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-6" target="lMN1IS2ueBsfVYDx3VOf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-6" target="lMN1IS2ueBsfVYDx3VOf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-6" value="ngày công &amp;gt;ngày công thực tế&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="480" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-7" target="lMN1IS2ueBsfVYDx3VOf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="520" />
+              <mxPoint x="670" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-7" value="(ngày công - nagfy công thực tế )*1+ ngày công" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lMN1IS2ueBsfVYDx3VOf-10" target="lMN1IS2ueBsfVYDx3VOf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-10" value="tiền lương&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMN1IS2ueBsfVYDx3VOf-12" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
